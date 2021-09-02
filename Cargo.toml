@@ -3,6 +3,7 @@ name = "serialize-quill-delta"
 version = "0.1.0"
 authors = ["Dmitriy Cherchenko"]
 license = "MIT"
+description = "Serialize a Quill Delta object to text"
 repository = "https://github.com/dchenk/serialize-quill-delta"
 edition = "2018"
 
